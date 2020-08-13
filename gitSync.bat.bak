@@ -1,5 +1,4 @@
-echo *** gitSync.bat
-cd C:\Users\ptm\OneDrive\GitHub\VBA-Custom-EHRM-App
+echo *** C:\GitHub\ES-ASG\gitSync.bat v20180807a
 echo %CD%
 git checkout master
 git pull
